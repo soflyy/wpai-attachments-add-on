@@ -1,1 +1,1 @@
-# wpai-attachments-add-on
+# WP All Import Attachments Add-On
